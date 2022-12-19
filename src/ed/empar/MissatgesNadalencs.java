@@ -35,7 +35,7 @@ public class MissatgesNadalencs {
 		AlumneFila2PC2();
 
 		AlumneFila2PC3();
-
+		
 		AlumneFila2PC4();
 
 		AlumneFila2PC5();
@@ -136,7 +136,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC3() {
-
+	System.out.println("Ainhoa Lamela: Feliç nadal i pròsper any nou. El meu desig per a enguany és que aprovem programació!! ")
 	}
 
 	private static void AlumneFila2PC4() {
