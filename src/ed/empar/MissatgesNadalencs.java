@@ -1,4 +1,3 @@
-package ed.empar;
 
 /**
  * Missatge i desitjos per al Nadal i l'Any Nou
@@ -12,8 +11,8 @@ public class MissatgesNadalencs {
 	////
 	// ATENCIÓ: el main() no l'has de modificar !!!!!!!!!!!
 	///
-	public static void main(String[] args) {
-		
+	public static void main (String[] args) {
+
 		missatgeProfessor();
 
 		// Fila1
@@ -136,7 +135,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC3() {
-	System.out.println("Ainhoa Lamela: Feliç nadal i pròsper any nou. El meu desig per a enguany és que aprovem programació!! ")
+	System.out.println("Ainhoa Lamela: Feliç nadal i pròsper any nou. El meu desig per a enguany és que aprovem programació!! ");
 	}
 
 	private static void AlumneFila2PC4() {
