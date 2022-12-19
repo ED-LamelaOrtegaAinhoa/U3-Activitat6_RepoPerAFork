@@ -60,7 +60,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila2 PC3:
-
+Modificado el archivo MissatgesNadalencs.java para añadir en mi método una felicitación navideña y un deseo de año nuevo.
 
 #### AlumneFila2 PC4:
 
